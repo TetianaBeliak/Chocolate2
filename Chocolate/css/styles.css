@@ -1,0 +1,275 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #fff;
+}
+ul {
+    list-style-type: none;
+  }
+  
+a {
+    text-decoration: none;
+  }
+  
+button {
+    cursor: pointer;
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+.header {  
+    background-color: #fafafa; 
+}
+
+
+.header-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.11;
+    letter-spacing: -0.03em;
+    color: #111; 
+}
+
+.header-logo-italic {
+    font-style: italic;
+}
+
+.menu-link {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: -0.02em;
+color: #111;
+}
+
+.header-soc-list {
+}
+
+.header-soc-item {
+}
+
+.header-soc-link {
+display: flex;
+align-items: center;
+justify-content: flex-start;
+flex-direction: row;
+gap: 14px;
+}
+
+.button {
+    background-color: rgba(17, 17, 17, 0.6);
+}
+
+.button-title {
+    font-weight: 500;
+font-size: 28px;
+line-height: 1.21;
+letter-spacing: -0.03em;
+color: #fff;
+}
+
+.button-main {
+    font-weight: 600;
+gap: 14px;
+color: #fff;
+}
+
+.button-main:focus,
+.button-main:hover {
+color: #fd9222;
+}
+
+.button-secondary {
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+}
+
+.button-scroll {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: -0.03em;
+    color: #fff;
+}
+
+.Feautres {
+    background-color: #1e1823;
+}
+
+
+.features-list {
+}
+
+.features-item {
+}
+
+.features-subtitle {
+    font-weight: 600;
+font-size: 18px;
+color: #fff;
+}
+
+.features-item-text {
+   
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+color: rgba(255, 255, 255, 0.7);
+}
+
+.taste {
+    background-color: #fafafa;
+}
+
+.section-title {
+    font-weight: 600;
+font-size: 24px;
+line-height: 1.167;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+text-align: center;
+color: #111;
+}
+
+.title-accent {
+    color: #fd9222;
+}
+
+.taste-text {
+    font-weight: 400;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+text-align: center;
+color: #111;
+}
+
+.taste-list {
+}
+
+.taste-list-item {
+}
+
+.taste-img-list {
+}
+
+.taste-list-subtitle {
+    font-weight: 600;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+color: #111;
+}
+
+.made {
+}
+
+.made-img-main {
+}
+
+.made-subtitle {
+    font-weight: 600;
+font-size: 18px;
+line-height: 1.33;
+color: #111;
+}
+
+.made-list {
+}
+
+.made-list-item {
+}
+.made-list-text {
+    font-weight: 400;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+color: #111;
+}
+
+.chocolate {
+}
+
+.chocolate-list {
+}
+
+.chocolate-list-item {
+}
+
+.chokolate-image-list {
+}
+
+.chocolate-subtitle {
+    font-weight: 600;
+font-size: 18px;
+line-height: 1.33;
+text-align: center;
+color: #111;
+}
+.chocolate-text {
+    font-weight: 400;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+text-align: center;
+color: rgba(17, 17, 17, 0.7);
+}
+
+.chocolate-btn-review {
+    font-weight: 600;
+    font-size: 18px;
+    color: #111;
+}
+
+.footer {
+    background-color: #1e1823;
+}
+
+.footer-title {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 1.21;
+    letter-spacing: -0.02em;
+    color: #fff;
+  }
+  
+.footer-subtitle {
+    font-weight: 500;
+font-size: 14px;
+line-height: 1.29;
+text-align: center;
+color: #fff;
+}
+
+.footer-address {
+    font-style: normal;
+}
+
+.footer-address-list {
+}
+
+.footer-address-item {
+}
+
+
+.footer-address-link {
+    font-weight: 400;
+font-size: 14px;
+line-height: 1.29;
+letter-spacing: -0.02em;
+text-align: center;
+color: #fff;
+}
+
+.footer-navigation-link {
+    color: #fff;
+}
